@@ -1,0 +1,98 @@
+body {
+      font-family:arial,times,sans-serif;
+       background-colour:#768CDBs;
+
+
+}
+header {
+        width:80%;
+        background-colour:#768CDB;
+        colour:black;
+        margin-left:auto;
+        margin-right:auto; 
+         border-width:5px;
+        border-style:solid;
+        border-colour:blue;
+        padding:5px;
+        overflow:hidden;
+
+}
+hgroup{
+     width:70%;
+     float:left;
+     
+}
+hgroup img{
+     float:left;
+     width:20%;
+     height:30%;
+}
+
+nav{
+    width:30%;
+    float:right;
+}
+nov ul {
+    list-style-type:none;
+}
+    
+h1{
+line-height:5px;
+font-size:1.5em;
+font-family:verdana;
+}
+hgroup h1{
+          font-size:3em;
+}
+hgroup h2{
+          font-size:1.2em;
+}
+section{
+        
+        width:80%;
+        background-colour:#0b0e15;
+        margin-left:auto;
+        margin-right:auto;
+        border-width:5px;
+        border-style:solid;
+        border-colour:#768CDB;
+        padding:5px;
+        background-image:url("krish.jpeg");
+
+
+}
+
+footer{
+       
+        width:80%;
+        background-colour:#0b0e15;
+        colour:green;
+        margin-left:auto;
+        margin-right:auto;
+        padding:5px;
+         border-width:5px;
+        border-style:solid;
+        border-colour:#0b0e15;
+
+
+
+}
+button {
+     
+      width:8o%;
+      height:5%;
+      margin-left:auto;
+      margin-right:auto;
+      border-style:solid;
+     
+      padding:10px;
+
+
+}
+a {
+align:center;
+}
+<p><a href="https://www.nature.com"> link </a></p>
+h4 {
+    width:60%;
+}
